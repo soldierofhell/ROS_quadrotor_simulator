@@ -19,6 +19,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   message_generation
   genmsg
+  mav_msgs
 )
 
 include_directories(${catkin_INCLUDE_DIRS})
