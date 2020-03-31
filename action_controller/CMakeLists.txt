@@ -33,6 +33,7 @@ generate_messages(
   trajectory_msgs
   actionlib_msgs
   action_controller
+  mav_msgs
 )
 
 catkin_package(
